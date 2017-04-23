@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Realm
 //
-//  Created by Flatiron School on 4/23/17.
+//  Created by Susan Zheng on 4/23/17.
 //  Copyright © 2017 Susan Zheng. All rights reserved.
 //
 
